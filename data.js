@@ -7,5 +7,8 @@ window.ATELIER_WORKS = [
  {id:'projector',title:'映写機',category:'映像・光',status:'要確認',description:'カラカラと回る音。ちらつく画面。光の中に浮かぶ埃。懐かしい映写体験の構想。',url:'',tags:['WebGL','映写','光'],note:'制作依頼の会話を確認。成果物と公開URLは未確認。',art:'projector'},
  {id:'share',title:'urei-share',category:'ツール',status:'要確認',description:'写真と映像を、届けたい人へ。作品を共有するための場所。',url:'',tags:['共有','写真','映像'],note:'過去の制作記録あり。非公開設定を含むためURLは未登録。',art:'share'},
  {id:'deck',title:'APP DECK',category:'ツール',status:'要確認',description:'これまでにつくってきたアプリのひとつ。作品情報を、ここに集めていく。',url:'',tags:['アプリ'],note:'今回の作品リストから登録。仕様・進捗・URLは未確認。',art:'deck'},
- {id:'grain',title:'粒子写真アプリ',category:'実験',status:'要確認',description:'写真と粒子をめぐる実験。作品名やバージョンを確かめながら、記録をつなぐ。',url:'',tags:['粒子','写真','実験'],note:'今回の作品リストから登録。既存アプリとの対応は未確定。',art:'grain'}
+ {id:'grain',title:'粒子写真アプリ',category:'実験',status:'要確認',description:'写真と粒子をめぐる実験。作品名やバージョンを確かめながら、記録をつなぐ。',url:'',tags:['粒子','写真','実験'],note:'今回の作品リストから登録。既存アプリとの対応は未確定。',art:'grain'},
+ {id:'yohaku',title:'YOHAKU',category:'写真',status:'公開中',description:'写真に余白を。タイトルや言葉、日付スタンプ、色のパレットを添えて書き出すフレームアプリ。',url:'https://8viliv8.github.io/yohaku/',tags:['余白','Paper Mono','書き出し'],note:'2026-10-17 公開URLを確認。',art:'yohaku'},
+ {id:'observation',title:'OBSERVATION CONSOLE',category:'音',status:'公開中',description:'「D AN D AN D !!!!」から生まれたブラウザ楽器。グレイン、リングモジュレーター、映像フレームが同期して鳴る観測卓。',url:'https://8viliv8.github.io/observation-console/',tags:['D AN D AN D !!!!','グラニュラー','Web Audio'],note:'2026-10-17 公開URLを確認。',art:'console'},
+ {id:'poncut',title:'PON / CUT',category:'音',status:'公開中',description:'音を切って、並べて、鳴らす。楽譜の画像を読み取り、グレインで演奏するスタジオ。',url:'https://8viliv8.github.io/observation-console/poncut-v13.html',tags:['PON / CUT','楽譜スキャン','グレイン'],note:'2026-10-17 公開URLを確認（Studio v1.3 SCORE PLAY）。',art:'poncut'},
 ];
