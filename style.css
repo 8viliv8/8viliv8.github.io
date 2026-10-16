@@ -6,3 +6,7 @@
 .console .symbol{font:500 34px 'IBM Plex Mono',monospace;color:#b9d3a8;letter-spacing:.3em;border-left:3px solid #b9d3a8;padding-left:18px}
 .poncut{background:linear-gradient(90deg,#2b2a33 0 30%,#d9d3c7 30% 34%,#2b2a33 34% 58%,#d9d3c7 58% 60%,#2b2a33 60%)}
 .poncut .symbol{font:600 30px 'IBM Plex Mono',monospace;color:#f1ebe0;letter-spacing:.18em;background:#e2473c;padding:6px 16px}
+.grainlab{background:radial-gradient(#1b1b1a 1.2px,transparent 1.4px) 0 0/7px 7px,radial-gradient(#1b1b1a .8px,transparent 1px) 3px 4px/9px 9px,linear-gradient(160deg,#cfccc4,#8e8b84)}
+.grainlab .symbol{font:300 44px 'IBM Plex Mono',monospace;color:#f4f2ec;background:#1b1b1a;padding:4px 18px;letter-spacing:.1em}
+.threshold{background:linear-gradient(115deg,#f4f1ea 0 48%,#c9643f 48% 62%,#2f5d7c 62%)}
+.threshold .symbol{font:400 40px 'IBM Plex Mono',monospace;color:#1b1b1a;letter-spacing:.4em;border-bottom:2px solid #1b1b1a;padding-bottom:4px}
